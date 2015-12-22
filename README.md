@@ -1,15 +1,16 @@
 # FiveInArow
 This is a five_in_a_row project with ai(kuon) .</br>
 
-The ai  include kuon(くおん):</br>
-くおん can solve the problem by gametree and α-β pruning.</br>
-くおん can be stochastic in some way.</br>
-くおん is compiled by c.</br>
+The ai  include kuon(くおん) and hitagi()ひたぎ:</br>
 
-The project include :</br>
-Winconsole(single exe)</br>
-winconsole_dll_static(dll before run)</br>
-winconsole_dll_dynamic(dll at runtime)</br>
-andorid with .so
+kuon:</br>
+ くおん can solve the problem by gametree and α-β pruning.</br>
+ くおん can be stochastic in some way.</br>
+ くおん is compiled by c.</br>
 
-
+hitagi:</br>
+	The project is compiled on entire c with extern dependence fann.</br>
+	ひたぎ is based on ann network and reinformance learning(bp-td).</br>
+	ひたぎ can be trained to be more intelligent.</br>
+	ひたぎ can evaluate the chessboard in a dynamic way depends on trainning.</br>
+	ひたぎ involved クオンsuch as gametree and α-β pruning.
