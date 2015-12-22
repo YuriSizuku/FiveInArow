@@ -1,13 +1,13 @@
 # FiveInArow
 This is a five_in_a_row project with ai(kuon) .</br>
 
-The ai include kuon(くおん) and hitagi()ひたぎ:</br>
+The ai include kuon(クオン) and hitagi(ひたぎ):</br>
 Each ai is compiled into dll individually .</br>
 
 kuon:</br>
- くおん can solve the problem by gametree and α-β pruning.</br>
- くおん can be stochastic in some way.</br>
- くおん is compiled by c.</br>
+ クオン can solve the problem by gametree and α-β pruning.</br>
+ クオン can be stochastic in some way.</br>
+ クオン is compiled by c.</br>
 
 hitagi:</br>
 	The project is compiled on entire c with extern dependence fann.</br>
