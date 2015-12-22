@@ -1,7 +1,8 @@
 # FiveInArow
 This is a five_in_a_row project with ai(kuon) .</br>
 
-The ai  include kuon(くおん) and hitagi()ひたぎ:</br>
+The ai include kuon(くおん) and hitagi()ひたぎ:</br>
+Each ai is compiled into dll individually .</br>
 
 kuon:</br>
  くおん can solve the problem by gametree and α-β pruning.</br>
