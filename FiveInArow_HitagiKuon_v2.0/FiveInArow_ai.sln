@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FiveInArow_console", "FiveInArow_console\FiveInArow_console.vcxproj", "{07E4681C-310E-451B-A173-55440FC6D858}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FiveInArow_kuon_dll", "FiveInArow_kuon_dll\FiveInArow_kuon_dll.vcxproj", "{EBFA4D2C-4CEC-452E-85B3-56843F2A21FE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FiveInArow_hitagi_dll", "FiveInArow_hitagi_dll\FiveInArow_hitagi_dll.vcxproj", "{B753B380-6510-4735-A64D-D523622791DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07E4681C-310E-451B-A173-55440FC6D858}.Debug|Win32.ActiveCfg = Debug|Win32
+		{07E4681C-310E-451B-A173-55440FC6D858}.Debug|Win32.Build.0 = Debug|Win32
+		{07E4681C-310E-451B-A173-55440FC6D858}.Release|Win32.ActiveCfg = Release|Win32
+		{07E4681C-310E-451B-A173-55440FC6D858}.Release|Win32.Build.0 = Release|Win32
+		{EBFA4D2C-4CEC-452E-85B3-56843F2A21FE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EBFA4D2C-4CEC-452E-85B3-56843F2A21FE}.Debug|Win32.Build.0 = Debug|Win32
+		{EBFA4D2C-4CEC-452E-85B3-56843F2A21FE}.Release|Win32.ActiveCfg = Release|Win32
+		{EBFA4D2C-4CEC-452E-85B3-56843F2A21FE}.Release|Win32.Build.0 = Release|Win32
+		{B753B380-6510-4735-A64D-D523622791DA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B753B380-6510-4735-A64D-D523622791DA}.Debug|Win32.Build.0 = Debug|Win32
+		{B753B380-6510-4735-A64D-D523622791DA}.Release|Win32.ActiveCfg = Release|Win32
+		{B753B380-6510-4735-A64D-D523622791DA}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

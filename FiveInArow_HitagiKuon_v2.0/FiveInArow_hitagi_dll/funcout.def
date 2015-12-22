@@ -1,0 +1,9 @@
+LIBRARY
+EXPORTS
+Ai_hitagi_play @1
+Ai_hitagi_play2 @2
+Ai_hitagi_train @3
+hitagi_create @4
+hitagi_load @5
+hitagi_save @6
+hitagi_destory @7

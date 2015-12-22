@@ -1,0 +1,8 @@
+LIBRARY  ;后面不要加名字，否则无法识别
+EXPORTS
+kuon_evaluateBoard @1
+Ai_kuon_pos @2
+Ai_kuon_gametree @3
+Ai_kuon_play @4
+Ai_extern_play @5
+kuon_evalTable DATA
