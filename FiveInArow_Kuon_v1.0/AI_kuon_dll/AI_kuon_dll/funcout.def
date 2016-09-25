@@ -1,6 +1,0 @@
-LIBRARY  ;后面不要加名字，否则无法识别
-EXPORTS
-evaluateBoard @1
-AI_kuon_pos @2
-AI_kuon_gametree @3
-evalTable_kuon DATA
